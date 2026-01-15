@@ -1,0 +1,2 @@
+// Por enquanto vazio
+// Depois você pode colocar animações, scroll, hover etc.
